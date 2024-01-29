@@ -12,3 +12,4 @@
 > dev = 內測版  
 > kitkat = 4.x 版  
 > release = 正式版
+https://www.youtube.com/watch?v=GYZf0rJrI-8
